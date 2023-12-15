@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Killian Le Guen</h1>
 <h3 align="center">A passionate student at 42 Angoulême</h3>
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **leguen.kln@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
